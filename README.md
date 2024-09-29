@@ -1,7 +1,7 @@
-Hi 👋 My name is Miguel Angel
+Hi 👋🏽 My name is Miguel Angel
 =============================
 
-Web developer 🍃
+Web developer 💻
 ----------------
 
 *   ✉️  You can contact me at [miguelangelnava\_4@hotmail.com](mailto:miguelangelnava_4@hotmail.com)
